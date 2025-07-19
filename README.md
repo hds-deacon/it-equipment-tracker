@@ -54,7 +54,7 @@ A comprehensive IT equipment tracking and management application built with Node
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
+git clone https://github.com/hds-deacon/it-equipment-tracker.git
 cd it-equipment-tracker
 ```
 
